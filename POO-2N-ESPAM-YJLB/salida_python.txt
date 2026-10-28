@@ -1,0 +1,7 @@
+Recepcion: REC-101
+Barco: Pacifico (EC-123)
+Lotes registrados: 2
+Peso total (kg): 2000.0
+Validacion peso: Peso debe ser mayor a cero
+Validacion temperatura: Temperatura maxima: 4 C
+Validacion duplicado: Codigo de lote duplicado
